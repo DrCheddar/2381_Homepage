@@ -50,7 +50,11 @@ body,td,th {
         transition-duration:  0.25s;
 }
 html, body{
+<<<<<<< HEAD
     /* height: 105%;
+=======
+    height: 105%;
+>>>>>>> eece9d554a848db47534752fdd4a75683e6920d9
     border: 0px solid red;
     min-width:1280px; */
 		scrollbar-width: none;
